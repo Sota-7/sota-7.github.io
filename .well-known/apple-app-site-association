@@ -1,0 +1,19 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "82W29FYP37.com.sota.FriendshipTest"
+        ],
+        "components": [
+          {
+            "/": "/FriendshipTest-link/join/*",
+            "?": { "code": "*" },
+            "comment": "FriendshipTest join with code"
+          }
+        ]
+      }
+    ]
+  }
+}
